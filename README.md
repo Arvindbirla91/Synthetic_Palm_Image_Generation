@@ -1,6 +1,6 @@
 # 🖐️ Synthetic Palm Image Generation using Transformers
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arvindbirla91/Synthetic_Palm_Image_Generation/blob/main/Fake_Palm_Generation_Pipeline.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Arvindbirla91/Synthetic_Palm_Image_Generation/blob/main/Fake_Palm_Generation_Pipeline.ipynb)
 
 A Transformer-based generative deep learning pipeline for synthesizing contactless palm images and their corresponding segmented representations from genuine palm captures.
 
