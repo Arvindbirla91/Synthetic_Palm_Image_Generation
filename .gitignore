@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and models
+*.pt
+*.pth
+*.bin
+
+# Environment & IDE
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets and outputs
+data/
+outputs/
+test_mock_iitd/
+*.zip
+*.tar.gz
+*.7z
+
+# Research drafts & scratch
+research_paper_draft*
+
+# Local development folders (for notebook-only repo)
+# src/
+# scripts/
+# notebooks/
