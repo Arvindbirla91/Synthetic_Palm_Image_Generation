@@ -10,7 +10,9 @@ The main objective is to preserve the overall hand structure, palm shape, illumi
 
 ## 🔄 Generation Pipeline
 **Inputs:** Genuine full-color palm image and corresponding segmentation mask.
+
 **Generator:** Transformer-based architecture with dual-stream conditioning and feature fusion.
+
 **Outputs:** Synthetic full-color palm image and corresponding segmented palm image.
 
 ## 🧠 Model Architecture
@@ -35,7 +37,7 @@ The complete workflow is available in `Fake_Palm_Generation_Pipeline.ipynb`.
 5. Inspect generated images and evaluation results.
 
 ## 🛠️ Technologies
-Python, PyTorch, Hugging Face Transformers, torchvision, timm, LPIPS, Google Colab and Jupyter Notebook.
+Python, PyTorch, Hugging Face Transformers, torchvision, LPIPS, Google Colab and Jupyter Notebook.
 
 ## 📄 License and Attribution
 Please acknowledge the original dataset authors and follow the dataset provider's access and citation requirements.
